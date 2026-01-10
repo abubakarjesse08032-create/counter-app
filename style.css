@@ -1,0 +1,33 @@
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+/* Counter display */
+h1 {
+  font-size: 4rem;
+  margin-bottom: 20px;
+}
+
+/* General button styling */
+button {
+  font-size: 1.2rem;
+  padding: 10px 10px;
+  margin: 5px;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  color: white;
+}
+
+/* Button specific colors */
+#increaseBtn { background-color: #28a745; } /* green */
+#decreaseBtn { background-color: #dc3545; } /* red */
+#resetBtn    { background-color: #007bff; } /* blue */
+
+/* Hover effect for all buttons */
+button:hover {
+  opacity: 0.85;
+}
