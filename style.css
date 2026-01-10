@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+button {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  color: white;
+}
+
+/* Button colors */
+#increaseBtn {
+  background-color: #28a745; /* green */
+}
+
+#decreaseBtn {
+  background-color: #dc3545; /* red */
+}
+
+#resetBtn {
+  background-color: #007bff; /* blue */
+}
+
+/* Hover effect */
+button:hover {
+  opacity: 0.85;
+  }
