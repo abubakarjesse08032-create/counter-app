@@ -2,6 +2,7 @@
 let count = 0;
 
 // Get HTML elements
+// By Ids
 const countLabel = document.getElementById("countLabel");
 const increaseBtn = document.getElementById("increaseBtn");
 const resetBtn = document.getElementById("resetBtn");

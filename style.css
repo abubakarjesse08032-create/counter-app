@@ -23,6 +23,7 @@ button {
 }
 
 /* Button specific colors */
+/* Button colors */
 #increaseBtn { background-color: #28a745; } /* green */
 #decreaseBtn { background-color: #dc3545; } /* red */
 #resetBtn    { background-color: #007bff; } /* blue */
