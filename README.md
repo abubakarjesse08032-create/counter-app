@@ -12,3 +12,6 @@ This is my first JavaScript project.
 - JavaScript
 
 Built by Jesse 🚀
+
+## 🌐 Live Demo
+👉 https://abubakarjesse08032-create.github.io/counter-app/
