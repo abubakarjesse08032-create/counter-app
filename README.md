@@ -1,3 +1,5 @@
+![Counter App Screenshot](IMG_20260113_091030.jpg)
+
 # Counter App
 
 A simple JavaScript counter application demonstrating DOM manipulation and event handling.
